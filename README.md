@@ -6,7 +6,7 @@
 ## 2.DistillBERT
 
 
-## 2.CRNN
+## 3.CRNN
 
 
-## 3.Transformer
+## 4.Transformer
